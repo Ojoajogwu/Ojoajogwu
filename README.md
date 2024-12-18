@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ojoajogwu
-- 👀 I’m interested in Active web development
-- 🌱 I’m currently learning HTML, CSS, JQuery
-- 💞️ I’m looking to collaborate on web development programs
+- 👀 I’m interested in Python
+- 🌱 Beginner level 
+- 💞️ Open for collaboration and tutorials
 - 📫 How to reach me +2347036750961, +2347039744920
 
 <!---
